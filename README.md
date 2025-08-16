@@ -23,5 +23,4 @@ Flight prices depend on **seasonality**, **time of day**, **number of stops**, *
 This pipeline captures those relationships in a form that machine learning models can use to **predict pricing patterns** accurately.
 
 
-   - Split back into train/test sets for modeling
 
